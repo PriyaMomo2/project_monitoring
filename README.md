@@ -1,13 +1,12 @@
-# Project Title
-Project Monitoring
+#Project Monitoring
 
 ## Screenshots
 
 ### List Data
-![Project List](web/img/view/index.png)
+![Project List](public/web/img/view/index.png)
 
 ### View Input
-![Project Input](web/img/view/input.png)
+![Project Input](public/web/img/view/input.png)
 
 ### View Update
-![Project Update](web/img/view/edit.png)
+![Project Update](public/web/img/view/edit.png)
